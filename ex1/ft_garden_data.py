@@ -11,7 +11,7 @@ class Plant():
 print("=== Garden Plant Registry ===")
 Rose = Plant("Rose", 25, 30)
 Rose.show()
-Sunflower = Plant("Sunflower", 25, 30)
+Sunflower = Plant("Sunflower", 80, 45)
 Sunflower.show()
 Cactus = Plant("Cactus", 15, 120)
 Cactus.show()
